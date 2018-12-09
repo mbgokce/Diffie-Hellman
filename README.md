@@ -1,2 +1,2 @@
 # Diffie-Hellman
-Diffie-Hellman Key Exchange Example
+I written a easy Diffie-Hellman Key Exchange code.
